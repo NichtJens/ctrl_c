@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#import ctrl_c
+import ctrl_c
 
 
 import time
